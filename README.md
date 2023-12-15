@@ -9,6 +9,16 @@
 2. Submit either an .exe file or a Python script for assessment by the MAPTEK verification portal: [MAPTEK TITAN](https://titan.maptek.net/).
 3. The verification service will execute our code and score the submitted code based on **processing speed** and **compression performance** against all other submitted entries.
 
+### Members of Team GoldDiggers BLOCK11
+| Name | Student ID | School E-mail |
+| ------------- | ------------- |------------- |
+| Borna Morassaei	| a1745552 | a1745552@student.adelaide.edu.au |       
+| Abraham Yelack	| a1804620 | a1804620@student.adelaide.edu.au |      
+| Irhas Gill	| a1825225 | a1825225@student.adelaide.edu.au |           
+| Eugene Xue | a1815509 | a1815509@student.adelaide.edu.au |            
+| Yuxin Cao  | a1832770 | a1832770@student.adelaide.edu.au |    
+| Tin Nam Choi | a1846390 | a1846390@student.adelaide.edu.au |
+| Adrian Kuta | a1777746 | a1777746@student.adelaide.edu.au |
   
 ## Build environment
 
