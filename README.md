@@ -1,9 +1,28 @@
-## Build
+# Block-Model-Compression-Algorithm by Team GoldDiggers
+### as part of 
+### --- Software Engineering Project 2023, Semester 2 ---
+- The Final Process Presentation: https://youtu.be/FuogCVHDKmM
+- The Final Presentation: https://youtu.be/U1YU06rm_gk
+
+### This project is presented as a gamified challenge which tests our design and implementation skills.
+1. The task involves creating a program capable of accepting uncompressed input data through standard input and generating compressed output data via standard output without any loss of information.
+2. Submit either an .exe file or a Python script for assessment by the MAPTEK verification portal: [MAPTEK TITAN](https://titan.maptek.net/).
+3. The verification service will execute our code and score the submitted code based on **processing speed** and **compression performance** against all other submitted entries.
+
+  
+## Build environment
 
 To build for **Linux** system executable:
 
 ```
 make
+```
+## Build for Windows
+
+To cross-compile from **Linux** to **Windows**:
+
+```
+make titan-linux
 ```
 
 ## Test
@@ -20,13 +39,7 @@ To time your solution:
 make time
 ```
 
-## Build for Windows
 
-To cross-compile from **Linux** to **Windows**:
-
-```
-make titan-linux
-```
 
 ## Run semi-titan locally
 
